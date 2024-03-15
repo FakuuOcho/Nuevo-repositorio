@@ -1,7 +1,3 @@
-# Nuevo-repositorio
-esto es una prueba de modulo 2
+Volvemos a editar este repositorio para poder aprobar el Henry Challenge y poder mejorar mi calidad de vida
 
-volviendo a intentar los cambios
-
-confio que esta vez me va a salir
-
+Atte: FacuPichon
